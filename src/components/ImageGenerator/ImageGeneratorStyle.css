@@ -1,0 +1,13 @@
+.imageGenContainer{
+    background-color: white;
+}
+.imageDisplay{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imageDisplay img{
+    width: 15rem;
+    margin: 1rem 1rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+}
